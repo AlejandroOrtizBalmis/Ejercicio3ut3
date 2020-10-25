@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Ejercicio3ut3"
         mc:Ignorable="d"
-        Title="Mosaico" Height="450" Width="450">
+        Title="Mosaico" Height="475" Width="450"
+        MinHeight="475" MinWidth="450">
     <DockPanel LastChildFill="True">
         <TextBlock DockPanel.Dock="Top"
                    Height="100"
